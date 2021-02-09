@@ -9,7 +9,7 @@
   font-weight: bold;
 }
 #btnGet:hover{
-    transform: scale(1.15);
+    transform: scale(1.2);
     box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
     border: 1px solid rgb(231, 126, 5);
     background-color: rgb(241, 123, 12);
@@ -50,5 +50,5 @@ h2{
     transform: scale(1.15);
     box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
     background-color: rgb(241, 123, 12);
-
+    border: 10px solid white;
 }
